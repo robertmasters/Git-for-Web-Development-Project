@@ -7,6 +7,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     2. What is HTML used for? 
     it's used for the structure of our website 
     3. What is an attribute and where do we put it? 
+    testing
     4. What is the h1 tag used for? How many times should I use it on a page?
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
